@@ -58,9 +58,4 @@ Para ejecutar estos cuadernos, necesitas las siguientes bibliotecas de Python:
 - wordcloud
 - nltk
 
-You can install the required libraries using pip:
 
-Puedes instalar las bibliotecas necesarias usando pip:
-
-```bash
-pip install pandas numpy matplotlib plotly scikit-learn wordcloud nltk
