@@ -42,20 +42,5 @@ Este cuaderno se basa en los datos preprocesados para crear un modelo predictivo
 - Métricas de rendimiento del modelo, como AUC-ROC y precisión.
 - Análisis de los coeficientes del modelo para comprender la importancia de cada característica en la predicción de fraudes.
 
----
-
-## Requirements / Requisitos
-
-To run these notebooks, you need the following Python libraries:
-
-Para ejecutar estos cuadernos, necesitas las siguientes bibliotecas de Python:
-
-- pandas
-- numpy
-- matplotlib
-- plotly
-- scikit-learn
-- wordcloud
-- nltk
 
 
